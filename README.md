@@ -1,1 +1,1 @@
-# test-deploy 1
+# manage hook enabled
